@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "projectNumber": "359386666459",
+  "projectId": "oneseco-io-trillastrobuzz",
+  "appId": "1:359386666459:web:e75e711c730bd06d7143fe",
+  "realtimeDatabaseInstanceUri": "https://oneseco-io-trillastrobuzz-default-rtdb.firebaseio.com",
+  "realtimeDatabaseUrl": "",
+  "storageBucket": "oneseco-io-trillastrobuzz.firebasestorage.app",
+  "locationId": "",
+  "apiKey": "AIzaSyA0FwkoIdv-6vtPuphrT_1C_s365Qu1qfE",
+  "authDomain": "oneseco-io-trillastrobuzz.firebaseapp.com",
+  "messagingSenderId": "359386666459",
+  "measurementId": "G-Q6GE30T5QR",
+  "recaptchaSiteKey": ""
+}
